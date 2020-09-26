@@ -1,0 +1,44 @@
+{
+  "data" : [
+    {
+      "name": "Akash Gosh",
+      "class": "X.B",
+      "studentId": 16130125,
+      "address": "thiruvoth house angamaly po ernakulam kerala",
+      "dob": "21/12/1992",
+      "phone": 9800566632
+    },
+    {
+      "name": "Name2",
+      "class": "IX.B",
+      "studentId": 16130125,
+      "address": "thiruvoth house angamaly po ernakulam kerala",
+      "dob": "21/12/1992",
+      "phone": 9800566632
+    },
+    {
+      "name": "Name3",
+      "class": "X.B",
+      "studentId": 16130125,
+      "address": "thiruvoth house angamaly po ernakulam kerala",
+      "dob": "21/12/1992",
+      "phone": 9800566632
+    },
+    {
+      "name": "Name4",
+      "class": "X.B",
+      "studentId": 16130125,
+      "address": "thiruvoth house angamaly po ernakulam kerala",
+      "dob": "21/12/1992",
+      "phone": 9800566632
+    },
+    {
+      "name": "Name5",
+      "class": "X.B",
+      "studentId": 16130125,
+      "address": "thiruvoth house angamaly po ernakulam kerala",
+      "dob": "21/12/1992",
+      "phone": 9800566632
+    }
+  ]
+}
